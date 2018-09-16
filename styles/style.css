@@ -1,0 +1,127 @@
+.has-box-shadow {
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+}
+
+.has-border-bottom {
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.has-padding-left {
+  padding-left: 0.75rem;
+}
+
+.brand {
+  font-family: 'Merriweather', serif;
+}
+
+/* .about-me {
+  margin-top: 1.5rem;
+} */
+
+.profile-img {
+  max-width: 256px;
+  max-height: 256px;
+  margin: auto;
+}
+
+ul {
+  margin-top: 0.5rem;
+}
+
+.section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.with-list-style {
+  list-style: initial;
+  margin-left: 2rem;
+}
+
+.lists {
+  margin-top: 2rem;
+}
+
+.graduation-icon {
+  margin-left: 0.5rem;
+}
+
+.contact-icon {
+  margin-right: 0.5rem;
+}
+
+.time {
+  margin-top: 1rem;
+}
+
+.list-title {
+  padding-top: 0rem;
+  margin-bottom: 0.75rem;
+}
+
+.navbar-menu.is-active {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.item-detail {
+  margin-top: 0rem;
+  margin-bottom: 2rem;
+}
+
+.contact {
+  margin-top: 1rem;
+}
+
+.contact-item {
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #e3e3e3;
+}
+
+footer a {
+  opacity: 0.8;
+}
+
+footer a:hover {
+  opacity: 1;
+}
+
+.copyright {
+  margin-top: 2rem;
+}
+
+.hero {
+  margin-top: 3.25rem;
+  background-color: #515863;
+  background-image: url("../img/tree.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.heroBody {
+  background-color: #e51843;
+  width: 190px;
+  height: 2.5rem;
+  margin: 0.5rem auto 1.25rem auto;
+}
+
+.educationTitle {
+  margin-top: 1rem !important;
+}
+
+.profile-name {
+  margin-top: 0.5rem;
+}
+
+@media only screen and (min-width: 1027px) {
+  /* .about-me {
+    margin-top: 3.5rem;
+  } */
+
+  .item-detail {
+    margin-top: 1.25rem;
+  }
+}
